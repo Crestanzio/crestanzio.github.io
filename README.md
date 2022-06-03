@@ -1,3 +1,3 @@
-# Live preview
+# Live Demo
 
-https://crestanzio.github.io/eduford/
+[Eduford](https://crestanzio.github.io/eduford/)
